@@ -1,4 +1,4 @@
-# PDF Reader
+# PDF READER
 
 Componente que muestra un archivo PDF.
 
