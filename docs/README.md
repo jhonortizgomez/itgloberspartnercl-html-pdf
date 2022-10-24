@@ -1,6 +1,6 @@
 # PDF READER
 
-Componente que muestra un archivo PDF.
+Component that displays a PDF file.
 
 ![image](../assets/pdf-reader.png)
 
